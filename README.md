@@ -22,6 +22,11 @@ You can try it and it will likely work, but i have not tested it on others mysel
 
 ## Change log
 
+### 0.2 (2024-01-13)
+
+- Removed dependency requirements (GM_Add)
+- Better css overview
+
 ### 0.1 (2024-01-12)
 
 - Initial commit
