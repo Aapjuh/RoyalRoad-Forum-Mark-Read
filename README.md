@@ -22,6 +22,10 @@ You can try it and it will likely work, but i have not tested it on others mysel
 
 ## Change log
 
+### 0.3 (2024-02-23)
+
+- Added Delay for 2nd round of clicks (site prohibits to many clicks too fast)
+
 ### 0.2 (2024-01-13)
 
 - Removed dependency requirements (GM_Add)
