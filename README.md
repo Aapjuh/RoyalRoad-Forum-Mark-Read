@@ -22,6 +22,12 @@ You can try it and it will likely work, but i have not tested it on others mysel
 
 ## Change log
 
+### 1.0 (2024-02-28)
+
+- Stable
+- Changed button style
+- Changed how the clicking loop works
+
 ### 0.3 (2024-02-23)
 
 - Added Delay for 2nd round of clicks (site prohibits to many clicks too fast)
